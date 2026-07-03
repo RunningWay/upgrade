@@ -9,12 +9,12 @@
         },
         {
             "name" : "usbmuxd",
-            "md5": "f2344sfaf44442aaaffa2fwqfhjuj2lkj",
+            "md5": "d6621308610b7e347903d21345202984",
             "cmd" : "mv /mnt/mtd/tmp/usbmuxd /mnt/mtd/usbmuxd && sync"
         },
         {
             "name" : "iproxy2",
-            "md5": "a234fgtr32jhk22hk3hk3k2kh3k2hk1gf",
+            "md5": "67fda45664d63d190973e49872139e96",
             "cmd" : "mv /mnt/mtd/tmp/iproxy2 /mnt/mtd/iproxy2 && sync"
         }
     ]
