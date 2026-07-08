@@ -1,10 +1,10 @@
 {
-    "date":"20260703",
+    "date":"20260708",
     "version":"1.0.1",
     "files":[
         {
            "name" : "IosDebug",
-           "md5" : "f4f270fca6838b363eb36398a84b9518",
+           "md5" : "7aec00f824b3679560e76ded57558eeffbb5e3cc",
            "cmd" : "mv /mnt/mtd/tmp/IosDebug /mnt/mtd/IosDebug && sync"
         },
         {
