@@ -4,17 +4,17 @@
     "files":[
         {
            "name" : "IosDebug",
-           "md5" : "7aec00f824b3679560e76ded57558eeffbb5e3cc",
+           "md5" : "f4f270fca6838b363eb36398a84b9518",
            "cmd" : "mv /mnt/mtd/tmp/IosDebug /mnt/mtd/IosDebug && sync"
         },
         {
             "name" : "usbmuxd",
-            "md5": "fda4e8a45367e87eeba14c665c1a37c0af3bac6b",
+            "md5": "0d9123ae86bccc3dcff5c0c6bdc72cde",
             "cmd" : "mv /mnt/mtd/tmp/usbmuxd /mnt/mtd/usbmuxd && sync"
         },
         {
             "name" : "iproxy2",
-            "md5": "c8e43310bcf9d22020294d54eabad959ae9f21ff",
+            "md5": "75c2f94d9086a150dca7f81d9f9f0fb3",
             "cmd" : "mv /mnt/mtd/tmp/iproxy2 /mnt/mtd/iproxy2 && sync"
         }
     ]
