@@ -1,5 +1,26 @@
 {
     "date":"20260708",
-    "version":"1.0.0",
-    "files":[]
+    "version":"1.0.2",
+    "files":[
+        {
+           "name" : "IosDebug",
+           "md5" : "acbbdb720dc2c4ceb8a65ec52c9acebc",
+           "cmd" : "mv /mnt/mtd/tmp/IosDebug /mnt/mtd/IosDebug && sync"
+        },
+        {
+            "name" : "usbmuxd",
+            "md5": "0ab757139a93a5b2e5e1cce2ac99d2a8",
+            "cmd" : "mv /mnt/mtd/tmp/usbmuxd /mnt/mtd/usbmuxd && sync"
+        },
+        {
+            "name" : "iproxy",
+            "md5": "026536408125ec3f7d3b11a4c25e4e26",
+            "cmd" : "mv /mnt/mtd/tmp/iproxy /mnt/mtd/iproxy && sync"
+        },
+        {
+            "name" : "UsbMain",
+            "md5": "17e2d3068e1c7430521b08b4d1445e4c",
+            "cmd" : "mv /mnt/mtd/tmp/UsbMain /mnt/mtd/UsbMain && sync"
+        }
+    ]
 }
