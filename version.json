@@ -4,12 +4,12 @@
     "files":[
         {
            "name" : "IosDebug",
-           "md5" : "acbbdb720dc2c4ceb8a65ec52c9acebc",
+           "md5" : "3210519d77c2bd93490a350348aab53c",
            "cmd" : "mv /mnt/mtd/tmp/IosDebug /mnt/mtd/IosDebug && sync"
         },
         {
             "name" : "usbmuxd",
-            "md5": "0ab757139a93a5b2e5e1cce2ac99d2a8",
+            "md5": "22d30e0db8a47697811f36c62e7fe651",
             "cmd" : "mv /mnt/mtd/tmp/usbmuxd /mnt/mtd/usbmuxd && sync"
         },
         {
@@ -19,7 +19,7 @@
         },
         {
             "name" : "UsbMain",
-            "md5": "17e2d3068e1c7430521b08b4d1445e4c",
+            "md5": "6812faa66225018e64acb4faf8dfd8ec",
             "cmd" : "mv /mnt/mtd/tmp/UsbMain /mnt/mtd/UsbMain && sync"
         }
     ]
