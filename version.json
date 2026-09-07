@@ -4,7 +4,7 @@
     "files":[
         {
            "name" : "IosDebug",
-           "md5" : "4826322b3532844d10e0bbb66e000aa5",
+           "md5" : "614afb5f40774cc6d73ebf37ec54bc9d",
            "cmd" : "mv /mnt/mtd/tmp/IosDebug /mnt/mtd/IosDebug && sync"
         },
         {
